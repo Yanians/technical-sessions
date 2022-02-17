@@ -1,0 +1,30 @@
+{
+  "name": "technical-sessions",
+  "version": "1.0.0",
+  "description": "technical review purposes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yanians/technical-sessions.git"
+  },
+  "keywords": [
+    "express",
+    "create-react-app",
+    "material-ui"
+  ],
+  "author": "Tres Paylas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yanians/technical-sessions/issues"
+  },
+  "homepage": "https://github.com/Yanians/technical-sessions#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "engines": {
+    "node": "v14.x"
+  }
+}
